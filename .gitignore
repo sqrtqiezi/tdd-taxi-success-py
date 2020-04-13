@@ -1,4 +1,5 @@
 venv/
+coverage_html/
 .pytest_cache/
 .idea/
 .scannerwork/
